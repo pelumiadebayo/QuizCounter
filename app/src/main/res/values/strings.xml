@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz Counter</string>
+    <string name="score_prompt">Set_Scores</string>
+
+    <string-array name="Set_Scores">
+        <item>Set Scores</item>
+        <item>P=10 B=5 A=2</item>
+        <item>P=5 B=3 A=1</item>
+        <item>P=3 B=2 A=1</item>
+    </string-array>
+</resources>
